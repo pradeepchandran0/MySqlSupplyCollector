@@ -1,6 +1,6 @@
 # MySqlSupplyCollector
 A supply collector designed to connect to MySQL
-revison 2
+revison 3
 ## Build
 Run `dotnet build`
 
